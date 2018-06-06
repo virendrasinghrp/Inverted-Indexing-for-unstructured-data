@@ -48,4 +48,4 @@ The devised approach has outperformed Apache Lucene in terms of time complexity.
 * Searching takes O(1) time in HashMap as compared to O(n) in Array and LinkedList or O(log(n)) in B-Tree.
 
 * Apache Lucene makes use of Skip List data structure which takes O(log(n)) time in searching.
-
+ 
